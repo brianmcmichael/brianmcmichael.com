@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="BM">
+  <rect width="32" height="32" rx="16" fill="#121716"/>
+  <text x="16" y="20.5" fill="#f6f8f7" font-family="Arial, sans-serif"
+        font-size="12" font-weight="700" text-anchor="middle">BM</text>
+  <circle cx="27" cy="5" r="3" fill="#60d29a" stroke="#121716" stroke-width="1.5"/>
+</svg>
