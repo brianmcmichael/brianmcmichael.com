@@ -1,6 +1,3 @@
-# Old site kept locally as content reference only — not part of the deploy.
-/brianmcmichael.com/
-
 # OS / editor cruft
 .DS_Store
 Thumbs.db

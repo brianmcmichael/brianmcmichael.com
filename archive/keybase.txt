@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/advanceduser
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.brianmcmichael.com
+  * I am advanceduser (https://keybase.io/advanceduser) on keybase.
+  * I have a public key ASCDlyAvkSs-_3w_xG7E7udy2P5Ih5ku8PTyJtRG7QWFIwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012051c8c457ad7af23b4076705af09fbbd5f18d55871c46b3e838960ee9ea5b80170a",
+      "host": "keybase.io",
+      "kid": "01208397202f912b3eff7c3fc46ec4eee772d8fe4887992ef0f4f226d446ed0585230a",
+      "uid": "47c18369857c198c3157108c4ace9919",
+      "username": "advanceduser"
+    },
+    "merkle_root": {
+      "ctime": 1563551762,
+      "hash": "f55e4e21d3655d16fe0157dd76c1ad670d84bda51e8615fcd1e97ca2171e180215c8a1deb92fb600091bacd69fca99a6f269e321233d3d07e67985272b4b618a",
+      "hash_meta": "f99568c83f49590a5d387141bd29c0b4741c8d23218bb85440c398061aebc3f2",
+      "seqno": 5799732
+    },
+    "service": {
+      "entropy": "E/9HEwr0qHQUX+vB7JtJRi9f",
+      "hostname": "www.brianmcmichael.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.1"
+  },
+  "ctime": 1563551769,
+  "expire_in": 504576000,
+  "prev": "5f2ede33811a825e6bdde5c88bad8bbd39ef3c6e289cd34c32807a10b6976968",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgg5cgL5ErPv98P8RuxO7nctj+SIeZLvD08ibURu0FhSMKp3BheWxvYWTESpcCFMQgXy7eM4Eagl5r3eXIi62LvTnvPG4onNNMMoB6ELaXaWjEIOs/Zh0KmukpN6/aXEorK3IQqIODpEL89oso99JOio3SAgHCo3NpZ8RAt/wO99d9pmmxTYPSE/Sy09ZfxoOf9E54dE1JyGyHzqFzt6VpmQGlp6rY3e2lHrMCn79fgJK7/ydyOJ0E/7cLAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICt18N72gKZHVBXd+kABtBZzK1Do9GjIN7/AyxV4hiNHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/advanceduser
+
+==================================================================
